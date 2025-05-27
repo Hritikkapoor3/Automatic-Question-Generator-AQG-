@@ -1,5 +1,5 @@
 # Automatic-Question-Generator-AQG-
-Automatic Question Generator (AQG)
+
 An AI-powered system that intelligently generates questions from PDFs and images, supporting both English and Hindi languages. The application features a React frontend and a Flask backend, integrating advanced OCR, language models, and image processing to produce context-aware Q&A pairs.
 
 🧠 Features:
